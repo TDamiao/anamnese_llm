@@ -1,6 +1,6 @@
 # Anamnese App
 
-![Anamnese App Logo](assets/logo.png) <!-- Opcional: Adicione um logo se disponível -->
+![Anamnese App print](/assets/Captura%20de%20tela%202024-12-27%20091245.png?raw=true)) <!-- Opcional: Adicione um logo se disponível -->
 
 ## Descrição
 
